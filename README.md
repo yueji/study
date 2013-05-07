@@ -4,3 +4,15 @@
 
 * js基础
 * jQuery
+
+
+## Authors
+
+**keywords**
+
++ [http://github.com/keywords](http://github.com/keywords)
+
+
+## Copyright
+
+Copyright 2013 Yueji, Inc.
