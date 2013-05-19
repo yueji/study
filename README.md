@@ -2,7 +2,7 @@
 
 ## js学习
 
-* js基础
+* js基础(参考JavaScript语言精粹)
 * jQuery
 
 
